@@ -59,7 +59,6 @@ The transformation follows these steps:
 5. Extracts mean and std measurements from the merged data set
 
 6. Convert the measurements from the column data to line data, after this step, for each observation, it would inlcudes: 
-
  + _Subject_
  + _ActivityName_
  + _Viarable_ : the feature name

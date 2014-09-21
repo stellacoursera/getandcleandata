@@ -21,6 +21,12 @@ In this project there is only one code file: run_analysis.R
 
 ### How to re-perform the analysis process?
 
+1. Create sub-folder "data" in the folder the source code located.
+
+2. Unzip the source data file downloaded from the web, and don't change anything
+
+3. Load the source and run the function:
+
 ```{r}
 main()
 ```
